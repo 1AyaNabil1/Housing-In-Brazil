@@ -1,6 +1,6 @@
 <h1 style="text-align:center"><font size="+3"><strong> Housing In Brazil </strong></font></h1>
 
-<p><img style="float: right;margin:5px 20px 5px 1px; max-width:400px" src="https://th.bing.com/th/id/OIP.odQS4sRGK8Oa7O6q2CZbDgAAAA?rs=1&pid=ImgDetMain"></p>
+![Brazil Housing](https://th.bing.com/th/id/OIP.odQS4sRGK8Oa7O6q2CZbDgAAAA?rs=1&pid=ImgDetMain)
 
  **Housing in Brazil is characterized by:**
 1. More than 80% of all housing units are detached houses of brick, stone, wood or concrete.
