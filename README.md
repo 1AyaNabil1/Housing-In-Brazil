@@ -1,6 +1,13 @@
 <h1 style="text-align:center"><font size="+3"><strong> Housing In Brazil </strong></font></h1>
 
-![Brazil Housing](https://th.bing.com/th/id/OIP.odQS4sRGK8Oa7O6q2CZbDgAAAA?rs=1&pid=ImgDetMain)
+<p><img style="float: right;margin:5px 20px 5px 1px; max-width:400px" src="https://th.bing.com/th/id/OIP.odQS4sRGK8Oa7O6q2CZbDgAAAA?rs=1&pid=ImgDetMain"></p>
+
+ **Housing in Brazil is characterized by:**
+1. More than 80% of all housing units are detached houses of brick, stone, wood or concrete.
+2. Less than 10% of all housing units are apartments.
+3. Less than 10% of all housing units are rural dwellings of wood or clay.
+4. Less than 5% of all housing units are semi-private units called "quartes."
+5. Roughly 74% of all dwellings are owner occupied (1998 est.).
 
 ## Introduction
 The "Housing in Brazil" project is a comprehensive exploration and analysis of the real estate market in Brazil. Brazil's housing market is characterized by diverse housing units and occupancy patterns, reflecting the country's cultural and economic landscape. This project delves into various aspects of the Brazilian housing market, including regional differences, housing types, price trends, and geographic distribution.
