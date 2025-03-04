@@ -1,6 +1,6 @@
 <h1 style="text-align:center"> Housing In Brazil </h1>
 
-<img src="https://th.bing.com/th/id/OIP.odQS4sRGK8Oa7O6q2CZbDgAAAA?rs=1&pid=ImgDetMain" alt="Brazil Housing" width = "500"/>
+<img src="https://th.bing.com/th/id/R.a19eff471580fc2b149304fc6107c93a?rik=7%2fGS4lZYREzRNQ&riu=http%3a%2f%2fprod-upp-image-read.ft.com%2fd133ee0a-1b43-11e3-b781-00144feab7de&ehk=WrZTZRUMUmkbtBY2G7J82txXNC7z9GJqbHiKiM9mDuE%3d&risl=&pid=ImgRaw&r=0" alt="Brazil Housing" width = "500"/>
 
 ## Introduction
 The "Housing in Brazil" project is a comprehensive exploration and analysis of the real estate market in Brazil. Brazil's housing market is characterized by diverse housing units and occupancy patterns, reflecting the country's cultural and economic landscape. This project delves into various aspects of the Brazilian housing market, including regional differences, housing types, price trends, and geographic distribution.
